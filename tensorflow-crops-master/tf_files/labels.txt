@@ -1,0 +1,57 @@
+alterania leafspot cotton
+anthracnose cotton
+apple apple scab
+apple black rot
+apple healthy
+ascochyta blight cotton
+bacterial blight cotton
+bacterial stalk rot of maize
+blotch wheat
+boron deficiency in maize
+brown spot of maize
+calcium deficiency in maize
+calcium deficiency wheat
+common bunt wheat
+common rust in maize
+corn maize healthy
+cotton rust
+downy mildew millet
+european maize borer
+eyespot of maize
+fall armyworm in maize
+gibberella stalk rot of maize
+gray leaf spot in maize
+healthy cotton
+healthy millet
+healthy wheat
+iron deficiency in maize
+karnal bunt wheat
+leaf rednning cotton
+leaf rust wheat
+lesser stalk borer of maize
+magnesium deficiency in maize
+maize chlorotic mottle virus
+maize earworm
+maize leaf streak virus
+maize lethal necrosis disease
+maize smut
+manganese deficiency in maize
+millet cercospora leaf spot
+millet rust
+northern leaf blight of maize
+northern leaf spot of maize
+peach bacterial spot
+peach healthy
+pearl millet ergot
+powdery mildew cotton
+southern leaf blight of maize
+southern rust of maize
+spotted stemborer in maize
+stem rust wheat
+stink bugs on maize millet and sorghum
+stunt of maize
+violet stem borer in maize
+wheat blast
+yellow dwarf wheat
+zinc deficiency in maize
+zinc deficiency wheat

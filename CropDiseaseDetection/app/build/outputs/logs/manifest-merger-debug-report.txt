@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\81f22d715dfa80a0c8924b3da9a2daa2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e705be862f1b6b5e9480575bca847674\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d61ff95da3478c4b82cb6653083a8bbf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\android-crop-1.0.1.aar\092b0c545bb081de5312184d6a570c3a\AndroidManifest.xml:2:1-10:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\dd2551a8b51738fb5a04fa906d8db74c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3a55688f5725e41764964e81f2e9a490\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9264393ec32161ee330fef37e2b6e1d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\03a2b127502c0d0fa28ea54b6894f32a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\863abd6e38c556949c944b178001d476\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a9dfc1fe6be577fa71a9bb5a8d02eb90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c8fe567245a6817be4d0d87722b7cdad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\57ebb0554d4a1f81314d60565b0e9c0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a861a2e49597bf23e159ed4cedf82d49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b00bf393dd5746bb5e99c2bb847de4b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\181e920b48326ee93313342f261a3efe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ddccb063c74d110591f1f944a1da6635\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\abc745cee0bcd6709635e2ec0b1bb177\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e55de79c702574d2ad44fd0f11db8843\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\504f4662ad0c3dc2204824af99783074\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\736f1ff05615c4776f0c4bf24b0c2937\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\dfb0d8f9ad5271c503c9f41d4b0213e8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9b92dad99fa5740e712cc207393d7f23\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\91ec32ffab41c3dc3921c3d35300596d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\48e113a0db6ad93a9729b9adf7779c32\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7aff1812768a598c63066d51c54d2c1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3e017bdc867ba722d7e3d2a9cdc771b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\db3708bc34f1b7b757d9b086d8b5d2eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e879864843dc55fe5d4f600f53c0375a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\76484fa354b8490316e4aba92b8c59bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af853c7439dc07570e534894e327ca4d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fb5e7136caab6e1f781d81d69787e61f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4fb03f13b7e3f763973f99a97fc935ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\547e2b199fdb0791024e6433b8e26fa0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:6:9-47
+uses-feature#android.hardware.camera.any
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:8:5-10:35
+	android:required
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:10:9-32
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:9:9-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CAMERA
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.INTERNET
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:15:22-64
+application
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:17:5-47:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\81f22d715dfa80a0c8924b3da9a2daa2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\81f22d715dfa80a0c8924b3da9a2daa2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d61ff95da3478c4b82cb6653083a8bbf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d61ff95da3478c4b82cb6653083a8bbf\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\dd2551a8b51738fb5a04fa906d8db74c\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\dd2551a8b51738fb5a04fa906d8db74c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\dfb0d8f9ad5271c503c9f41d4b0213e8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\dfb0d8f9ad5271c503c9f41d4b0213e8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9b92dad99fa5740e712cc207393d7f23\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9b92dad99fa5740e712cc207393d7f23\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\dfb0d8f9ad5271c503c9f41d4b0213e8\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:21:9-42
+	android:icon
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:19:9-37
+	android:allowBackup
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.soumio.inceptiontutorial.Solution
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:28:9-46
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:28:19-43
+activity#com.soumio.inceptiontutorial.ChooseModel
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:29:19-46
+activity#com.soumio.inceptiontutorial.WelcomeActivity
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:36:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:40:27-74
+activity#com.soumio.inceptiontutorial.Classify
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:43:9-46
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:43:19-43
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:44:9-46:52
+	android:screenOrientation
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml:45:13-73
+uses-sdk
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\81f22d715dfa80a0c8924b3da9a2daa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\81f22d715dfa80a0c8924b3da9a2daa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e705be862f1b6b5e9480575bca847674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e705be862f1b6b5e9480575bca847674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d61ff95da3478c4b82cb6653083a8bbf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d61ff95da3478c4b82cb6653083a8bbf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\android-crop-1.0.1.aar\092b0c545bb081de5312184d6a570c3a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\android-crop-1.0.1.aar\092b0c545bb081de5312184d6a570c3a\AndroidManifest.xml:6:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\dd2551a8b51738fb5a04fa906d8db74c\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\dd2551a8b51738fb5a04fa906d8db74c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3a55688f5725e41764964e81f2e9a490\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\3a55688f5725e41764964e81f2e9a490\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9264393ec32161ee330fef37e2b6e1d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9264393ec32161ee330fef37e2b6e1d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\03a2b127502c0d0fa28ea54b6894f32a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\03a2b127502c0d0fa28ea54b6894f32a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\863abd6e38c556949c944b178001d476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\863abd6e38c556949c944b178001d476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a9dfc1fe6be577fa71a9bb5a8d02eb90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\a9dfc1fe6be577fa71a9bb5a8d02eb90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c8fe567245a6817be4d0d87722b7cdad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c8fe567245a6817be4d0d87722b7cdad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\57ebb0554d4a1f81314d60565b0e9c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\57ebb0554d4a1f81314d60565b0e9c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a861a2e49597bf23e159ed4cedf82d49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a861a2e49597bf23e159ed4cedf82d49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b00bf393dd5746bb5e99c2bb847de4b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\b00bf393dd5746bb5e99c2bb847de4b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\181e920b48326ee93313342f261a3efe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\181e920b48326ee93313342f261a3efe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ddccb063c74d110591f1f944a1da6635\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\ddccb063c74d110591f1f944a1da6635\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\abc745cee0bcd6709635e2ec0b1bb177\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\abc745cee0bcd6709635e2ec0b1bb177\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e55de79c702574d2ad44fd0f11db8843\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e55de79c702574d2ad44fd0f11db8843\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\504f4662ad0c3dc2204824af99783074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\504f4662ad0c3dc2204824af99783074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\736f1ff05615c4776f0c4bf24b0c2937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\736f1ff05615c4776f0c4bf24b0c2937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\dfb0d8f9ad5271c503c9f41d4b0213e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\dfb0d8f9ad5271c503c9f41d4b0213e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9b92dad99fa5740e712cc207393d7f23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9b92dad99fa5740e712cc207393d7f23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\91ec32ffab41c3dc3921c3d35300596d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\91ec32ffab41c3dc3921c3d35300596d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\48e113a0db6ad93a9729b9adf7779c32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\48e113a0db6ad93a9729b9adf7779c32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7aff1812768a598c63066d51c54d2c1e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7aff1812768a598c63066d51c54d2c1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3e017bdc867ba722d7e3d2a9cdc771b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3e017bdc867ba722d7e3d2a9cdc771b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\db3708bc34f1b7b757d9b086d8b5d2eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\db3708bc34f1b7b757d9b086d8b5d2eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e879864843dc55fe5d4f600f53c0375a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e879864843dc55fe5d4f600f53c0375a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\76484fa354b8490316e4aba92b8c59bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\76484fa354b8490316e4aba92b8c59bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af853c7439dc07570e534894e327ca4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af853c7439dc07570e534894e327ca4d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fb5e7136caab6e1f781d81d69787e61f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fb5e7136caab6e1f781d81d69787e61f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4fb03f13b7e3f763973f99a97fc935ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4fb03f13b7e3f763973f99a97fc935ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\547e2b199fdb0791024e6433b8e26fa0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\naikp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\547e2b199fdb0791024e6433b8e26fa0\AndroidManifest.xml:20:5-44
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+		ADDED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project\CropDiseaseDetection\app\src\main\AndroidManifest.xml

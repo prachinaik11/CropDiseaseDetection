@@ -1,0 +1,26 @@
+
+
+Steps to run program
+
+1. Train model by running following command
+
+
+	python retrain.py --bottleneck_dir E:\tensorflowdemo\yashodeep\tensorflowexamples\test\tensorflow-animals-master\tf_files\bottlenecks --how_many_training_steps 500 --model_dir E:\tensorflowdemo\yashodeep\tensorflowexamples\test\tensorflow-animals-master\tf_files\inception --output_graph E:\tensorflowdemo\yashodeep\tensorflowexamples\test\tensorflow-animals-master\tf_files\retrained_graph.pb --output_labels E:\tensorflowdemo\yashodeep\tensorflowexamples\test\tensorflow-animals-master\tf_files\retrained_labels.txt --image_dir E:\tensorflowdemo\yashodeep\tensorflowexamples\test\tensorflow-animals-master\tf_files\animals
+
+python retrain.py --bottleneck_dir E:\Project\tensorflow-crops-master\tf_files\bottlenecks --how_many_training_steps 500 --model_dir E:\Project\tensorflow-crops-master\tf_files\inception --output_graph E:\Project\tensorflow-crops-master\tf_files\retrained_graph.pb --output_labels E:\Project\tensorflow-crops-master\tf_files\retrained_labels.txt --image_dir E:\Project\tensorflow-crops-master\tf_files\crops
+
+
+2. After training run program to test
+
+	
+to run
+python label_image.py E:\tensorflowdemo\yashodeep\tensorflowexamples\test\test1\tensorflow-animals-master\tf_files\test\demo.jpg
+python label_image.py E:\tensorflowdemo\yashodeep\tensorflowexamples\tensorflow-animals-master\tf_files\test\\basque-shepherd-dog.jpg
+
+python label_image.py E:\Project\tensorflow-crops-master\tf_files\crops\blotch_wheat\7.jpeg
+
+
+to train
+
+python retrain.py --bottleneck_dir E:\tensorflowdemo\yashodeep\tensorflowexamples\test\tensorflow-animals-master\tf_files\bottlenecks --how_many_training_steps 500 --model_dir E:\tensorflowdemo\yashodeep\tensorflowexamples\test\tensorflow-animals-master\tf_files\inception --output_graph E:\tensorflowdemo\yashodeep\tensorflowexamples\test\tensorflow-animals-master\tf_files\retrained_graph.pb --output_labels E:\tensorflowdemo\yashodeep\tensorflowexamples\test\tensorflow-animals-master\tf_files\retrained_labels.txt --image_dir E:\tensorflowdemo\yashodeep\tensorflowexamples\test\tensorflow-animals-master\tf_files\animals
+

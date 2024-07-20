@@ -1,0 +1,51 @@
+Alterania_leafspot_cotton - https://www.cropscience.bayer.com/en/crop-compendium/pests-diseases-weeds/diseases/alternaria-spp-cotton
+Anthracnose_cotton - https://www.planetnatural.com/pest-problem-solver/plant-disease/anthracnose/
+Apple___Apple_scab - https://www.planetnatural.com/pest-problem-solver/plant-disease/apple-scab/
+Apple___Black_rot - https://en.wikipedia.org/wiki/Black_rot
+Ascochyta-blight_cotton - https://www.plantwise.org/KnowledgeBank/Datasheet.aspx?dsid=7310
+Bacterial_Blight_cotton - https://en.wikipedia.org/wiki/Bacterial_blight_of_cotton
+Bacterial_stalk_rot_of_maize - https://plantix.net/plant-disease/en/300035/bacterial-stalk-rot-of-maize
+blotch_wheat - https://en.wikipedia.org/wiki/Spot_blotch_(wheat)
+Boron_deficiency_in_maize - https://en.wikipedia.org/wiki/Boron_deficiency_(plant_disorder)
+Brown_spot_of_maize - https://www.plantwise.org/KnowledgeBank/Datasheet.aspx?dsid=40770
+Calcium_deficiency_in_maize - https://en.wikipedia.org/wiki/Calcium_deficiency_(plant_disorder)
+calcium_deficiency_wheat - https://en.wikipedia.org/wiki/Calcium_deficiency_(plant_disorder)
+common_bunt_wheat - https://en.wikipedia.org/wiki/Common_bunt
+Common_Rust_in_maize - https://www.plantwise.org/KnowledgeBank/Datasheet.aspx?dsid=45872
+cotton_rust - https://www.planetnatural.com/pest-problem-solver/plant-disease/common-rust/
+zinc_deficiency_wheat - https://en.wikipedia.org/wiki/Zinc_deficiency_(plant_disorder)#Treatment
+Zinc_deficiency_in_maize - https://en.wikipedia.org/wiki/Zinc_deficiency_(plant_disorder)#Treatment
+yellow_dwarf_wheat - https://en.wikipedia.org/wiki/Barley_yellow_dwarf#Control
+wheat_blast - https://en.wikipedia.org/wiki/Magnaporthe_grisea
+Violet_stem_borer_in_maize - https://plantix.net/plant-disease/en/600213/violet-stem-borer-in-maize
+Stunt_of_maize - https://plantvillage.psu.edu/topics/corn-maize/infos
+Stink_bugs_on_maize_millet_and_sorghum - https://plantix.net/plant-disease/en/600051/stink-bugs-on-maize-millet-and-sorghum
+stem_rust_wheat: https://www.agric.wa.gov.au/grains-research-development/managing-stem-rust-wheat?page=0%2C3#smartpaging_toc_p3_s1_h2
+Spotted_stemborer_in_maize: http://agritech.tnau.ac.in/crop_protection/crop_prot_crop_insectpest%20_cereals_maize.html
+southern_rust_of_maize: https://cropwatch.unl.edu/plantdisease/corn/southern-rust
+Southern_leaf_blight_of_maize: https://www.pioneer.com/home/site/us/agronomy/crop-management/corn-insect-disease/southern-leaf-blight/
+Powdery_mildew_cotton: https://en.wikipedia.org/wiki/Powdery_mildew#Management
+Pearl_millet_Ergot: https://plantix.net/plant-disease/en/100054/pearl-millet-ergot
+Peach___Bacterial_spot: https://plantix.net/plant-disease/en/300024/bacterial-spot-on-stone-fruits
+Lesser_stalk_borer_of_maize:https://www.pioneer.com/home/site/us/agronomy/crop-management/corn-insect-disease/common-stalk-borer/
+leaf_rust_wheat: https://en.wikipedia.org/wiki/Wheat_leaf_rust#Control
+Leaf _rednning_cotton: https://plantix.net/plant-disease/en/900018/leaf-reddening-of-cotton
+karnal_bunt_wheat: https://en.wikipedia.org/wiki/Karnal_bunt#Management
+Iron_deficiency_in_maize: https://plantix.net/plant-disease/en/700059/iron-deficiency-in-maize
+Gray_leaf_spot_in_maize: https://www.pioneer.com/home/site/us/agronomy/crop-management/corn-insect-disease/gray-leaf-spot/
+Gibberella_stalk_rot_of_maize: https://www.pioneer.com/home/site/us/agronomy/crop-management/corn-insect-disease/gibberella-stalk-rot/
+Fall_armyworm_in_maize: https://entomology.ca.uky.edu/ef110
+Eyespot_of_maize: https://plantix.net/plant-disease/en/100176/eyespot-of-maize
+European_maize_borer: https://en.wikipedia.org/wiki/European_corn_borer
+Magnesium_deficiency_in_maize- https://www.pioneer.com/home/site/us/agronomy/magnesium-deficiency-corn/
+Maize_chlorotic_mottle_virus- https://www.plantwise.org/KnowledgeBank/Datasheet.aspx?dsID=32129
+Maize_Earworm- https://www.gardeningknowhow.com/plant-problems/pests/insects/corn-earworm-control.htm
+Maize_leaf_streak_virus- https://www.planetnatural.com/pest-problem-solver/plant-disease/mosaic-virus/
+Maize_lethal_necrosis_disease- https://plantix.net/plant-disease/en/200022/maize-lethal-necrosis-disease
+Maize_smut- https://plantix.net/plant-disease/en/100038/maize-smut
+Manganese_deficiency_in_maize- https://en.wikipedia.org/wiki/Manganese_deficiency_(plant)
+Millet_cercospora_leaf_spot- https://plantix.net/plant-disease/en/100091/millet-cercospora-leaf-spot
+Millet_rust- https://plantix.net/plant-disease/en/100089/millet-rust
+Northern_leaf_blight_of_maize- https://plantix.net/plant-disease/en/100065/northern-leaf-blight-of-maize
+Northern_leaf_spot_of_maize- https://en.wikipedia.org/wiki/Northern_corn_leaf_blight
+downy_mildew_millet - http://agropedia.iitk.ac.in/content/downy-mildew-pearl-millet
